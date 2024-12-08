@@ -4,4 +4,4 @@ flask
 discord_webhook
 gunicorn
 google.generativeai
-dateutil
+python-dateutil
