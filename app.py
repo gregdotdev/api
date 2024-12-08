@@ -2,7 +2,6 @@ from flask import Flask, jsonify, request, abort
 import time
 import requests
 from discord_webhook import DiscordEmbed, DiscordWebhook
-from g4f.client import Client
 from datetime import datetime, timedelta
 from dateutil import parser
 from werkzeug.middleware.proxy_fix import ProxyFix
