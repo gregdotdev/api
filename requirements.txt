@@ -1,0 +1,6 @@
+requests
+instaloader
+flask
+discord_webhook
+gunicorn
+google.generativeai
