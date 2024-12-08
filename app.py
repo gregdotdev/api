@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request, abort
-from instagram_private_api import Client, ClientCompatPatch
 import time
 import requests
 from discord_webhook import DiscordEmbed, DiscordWebhook
